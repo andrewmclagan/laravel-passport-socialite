@@ -1,5 +1,5 @@
 {
-    "name": "schedula/laravel-passport-socialite",
+    "name": "andrewmclagan/laravel-passport-socialite",
     "description": "The missing laravel passport feature for social authentication",
     "keywords" : [ "laravel", "social-login", "laravel-passport", "passport", "laravel-socialite", "socialite"],
     "license": "MIT",
